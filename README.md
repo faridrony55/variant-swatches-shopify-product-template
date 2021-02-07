@@ -1,0 +1,1 @@
+# variant-swatches-shopify-product-template
